@@ -21,12 +21,12 @@ project/ ├── frontend/ # React frontend (Syncfusion dashboard) │ ├─�
 
 ⚙️ Getting Started
 📁 Clone the Repository
-git clone https://github.com/your-username/syncfusion-dashboard-app.git
-cd syncfusion-dashboard-app
+git clone https://github.com/DushyantSharma2006/Businify.git
+cd Businify
 
 🖥 Frontend Setup (React + Tailwind CSS)
 Navigate to the frontend directory:
-cd frontend
+cd project_syncfusion_dashboard-main
 
 Install dependencies:
 npm install
